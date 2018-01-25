@@ -1,1 +1,2 @@
 # Machine-Learning-Course
+There are some practice code of machine learning course "Machine Learning A-Z™ Hands-On Python & R In Data Science". There are also definition to understand the course easily. I also make comment for every line in my code to find the function of every line of code easily. Hope it will help the beginners like me whose are doing this course.
