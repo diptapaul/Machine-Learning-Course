@@ -1,7 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-
 # Importing the dataset to the code
 dataset = pd.read_csv('Data.csv')
 
